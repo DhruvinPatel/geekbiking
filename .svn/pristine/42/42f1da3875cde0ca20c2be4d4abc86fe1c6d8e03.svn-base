@@ -1,0 +1,7 @@
+To install this file in ubuntu based system, you need to have all the libraries and header files for Qt, freeglut3-dev and g++. To install them, run the following commands:
+
+sudo apt-get install qt4-dev-tools libqt4-dev libqt4-core libqt4-gui
+sudo apt-get install freeglut3-dev
+sudo apt-get install g++
+
+The entire project is under the folder 'CSP'. To build this program, run the 'make' command in the folder. This will essentially build all the files. To run the program, simply use ./trial.

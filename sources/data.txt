@@ -1,0 +1,5 @@
+Rohit     30
+lol     30
+Khushboo     25
+Kunal     20
+Yash     15

@@ -1,0 +1,51 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{color}
+\begin{document}
+
+
+\begin{center}
+{\bf{\color{cyan}\begin{Large}Geek Biking\end{Large}}}\\
+\end{center}
+{\color{green}\par\hbox{Game Description:\strut}\hrule}
+~\\
+The game Geek Biking provides you the fantastic gaming experience of Dirt Biking .The game offers you 6 planets to play in and build your High Score … The more cans you collect more score you obtain.\\ 				 	 
+{\color{green}\par\hbox{Story: Help Dodo!\strut}\hrule}	
+~\\
+Dodo is an alien from Patropia an extra Solar Planet. When he and his friends came to Solar system to conduct research, Dodo (a geek) got left by. Now help him to reach his friends(home) … you need to clear each planet as fast as possible , also more cans you collect More energy Dodo gets Hence it's more likely that he will reach home . So get ready!!!\\
+
+{\color{green}\par\hbox{How to Play:\strut}\hrule}
+~\\
+Clicking on play:\\
+Offers you to choose level difficulty: Easy, Hard, Practice. Each level has certain numbers of maps (planet tracks).\\
+Clicking on Instructions:\\
+Displays buttons to be used:\\
+Up Arrow Key: Moves the bike in forward direction.\\
+Down Arrow Key: Moves the bike in reverse direction.\\
+Left Arrow Key: Turns the bike in left direction.\\
+Right Arrow Key: Turns the bike in right direction.\\
+Space: Jumps the bike.\\
+R: resets the bike in default position.\\
+{\color{green}\par\hbox{Quitting the game:\strut}\hrule}
+~\\
+Clicking on the Quit button quits the game or also you can 
+Press escape button.\\
+To view High Score :\\
+You can view your High scores by clicking on the High Score button in the main menu.\\
+While playing:\\
+While you are playing games try to collect as many cans as you can this will increase your score. Also there is a time limit of one minute. Try to collect all the cans within this limit. You can view the time left, your current score, on the menu appearing in the front.\\
+~\\
+{\color{green}\par\hbox{Installing Instructions:\strut}\hrule}
+~\\
+To build and run this application in linux system, you need the following libraries:\\
+\indent freeglut3\\
+\indent g++\\
+To install these libraries, run the following commands:\\
+\indent sudo apt-get install libfreeglut3-dev\\
+\indent sudo apt-get install g++\\
+To build and run this application, run the commands:\\
+\indent make\\
+\indent ./myapp\\
+\end{document} 
+
+
+

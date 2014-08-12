@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/2.jpg</file>
+        <file>images/10</file>
+        <file>images/12</file>
+        <file>images/13</file>
+        <file>images/15</file>
+        <file>images/32</file>
+        <file>images/quit.jpg</file>
+        <file>images/data.txt</file>
+        <file>images/sports_bike-wide.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>images/bg.jpg</file>
+        <file>images/tmap2icon.bmp</file>
+        <file>images/tmap6icon.bmp</file>
+        <file>images/tmap7icon.bmp</file>
+        <file>images/tmap8icon.bmp</file>
+        <file>images/tmap9icon.bmp</file>
+        <file>images/tmp1icon.bmp</file>
+        <file>images/tmp2icon.bmp</file>
+        <file>images/tmp3icon.bmp</file>
+        <file>images/tmp4icon.bmp</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>images/Actions media playback start.ico</file>
+        <file>images/b1.ico</file>
+        <file>images/b2.ico</file>
+        <file>images/b3.ico</file>
+        <file>images/b4.ico</file>
+        <file>images/h.ico</file>
+        <file>images/s1.ico</file>
+        <file>images/s2.ico</file>
+        <file>images/sc1.ico</file>
+        <file>images/sc2.ico</file>
+        <file>images/Exit.ico</file>
+    </qresource>
+</RCC>
