@@ -8,6 +8,9 @@ make
 ```
 
 **Developers**
+
 Rohit Pruthi
+
 Khushboo Gupta
+
 Patel Dhruvin
