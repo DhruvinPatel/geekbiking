@@ -13,4 +13,4 @@ Rohit Pruthi
 
 Khushboo Gupta
 
-Patel Dhruvin
+Dhruvin Patel
